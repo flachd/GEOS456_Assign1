@@ -14,7 +14,7 @@ Write a script to create one or more directories based on names that the user wi
 Assume that this script will be executed in IDLE and the directories will be created in the
 following location: D:\GEOS455\Assign1. To create the directories, use the mkdir Python command.
 
-Oh and now I am testing this code in GitHub
+Oh and now I am testing this code in GitHub. It's not exactly intuitive.
 
 The logical flow for the script is outlined below:
 1.
